@@ -31,8 +31,8 @@ pip install aiohttp
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/Pugn0/Scan-MerchantKey.git
+cd Scan-MerchantKey
 ```
 
 2. Crie um arquivo chamado `site.txt` contendo os domínios que deseja escanear (um por linha):
@@ -46,7 +46,7 @@ outro-site.com
 3. Execute o script:
 
 ```bash
-python merchantkey_scanner.py
+python main.py
 ```
 
 4. Os resultados aparecerão no terminal e também serão salvos no arquivo `found_keys.json`.
