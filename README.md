@@ -57,7 +57,7 @@ python main.py
 
 Confira o vídeo completo onde mostro como criei e uso essa automação com ajuda do ChatGPT:
 
-👉 [Assista aqui](https://youtube.com/seu-video-aqui)
+👉 [Assista aqui](https://youtu.be/LXC0VvXYy4E)
 
 ---
 
